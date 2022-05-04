@@ -1,0 +1,33 @@
+{{ if default true .Site.Params.CarouselAircraft.enable }}
+{{ if gt (len .Site.Data.aircraft) 0 }}
+<section>
+    <div class="home-carousels">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-carousel"
+                data-autoplay="{{ default true .Site.Params.CarouselAircraft.auto_play }}"
+                data-slide-speed="{{ default 2000 .Site.Params.CarouselAircraft.slide_speed }}"
+                data-pagination-speed="{{ default 1000 .Site.Params.CarouselAircraft.pagination_speed }}">
+                {{ range sort .Site.Data.aircraft "weight" }}
+                <div class="item">
+                    {{ if .href }}
+                    <a href="{{ .href }}">
+                    {{ end }}
+                        <div class="row">
+                           
+                            <div class="col-sm-12">
+                                <img style="width: 1140px; height: 500px; object-fit: contain" src="{{ .image }}" alt="">
+                            </div>
+                        </div>
+                    {{ if .href }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+            <!-- /.project owl-slider -->
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}

@@ -1,5 +1,6 @@
 #baseurl = "https://example.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-baseurl = "https://tymadsen.github.io/flightschool/"
+#baseurl = "https://tymadsen.github.io/flightschool/"
+baseurl = "localhost:1313"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
@@ -65,17 +66,17 @@ pluralizelisttitles = false
     url        = "/blog/"
     weight     = 7
 
-[[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 8
+#[[menu.main]]
+#    name       = "FAQ"
+#    identifier = "menu.faq"
+#    url        = "/faq/"
+#    weight     = 8
 
-[[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
-    weight     = 9
+#[[menu.main]]
+#    identifier = "contact"
+#    name       = "Contact"
+#    url        = "/contact/"
+#    weight     = 9
 
 # Top bar social links menu
 
@@ -165,8 +166,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Idaho Flight Academy is here to help you reach the sky.</p>"
+    copyright = "Copyright (c) 2022, Idaho Flight Academy; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -174,18 +175,16 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = true
-    logo_text = "South Valley Aviation"
+    #logo_text = "South Valley Aviation"
+    logo_text = "Idaho Flight Academy"
+
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p class="text-uppercase"><strong>Idaho Flight Acadmey</strong>
+        <br>123 S State St.
+        <br>Pocatello, ID
       </p>
       """
 
@@ -195,7 +194,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at <> or <>.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
@@ -223,6 +222,12 @@ pluralizelisttitles = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
+    enable = false
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[params.carouselAircraft]
     enable = true
     auto_play = true
     slide_speed = 2000
@@ -230,8 +235,8 @@ pluralizelisttitles = false
 
 [params.about]
     enable = true
-    title = "South Valley Aviation"
-    subtitle = "South Valley Aviation offers flight training and airplane rental to pilots in and around Utah. Come fly with us to work on ratings and maintain your currency. For more information email info@southvalleyaviation.com. If you already have a Trackhobbs.com account setup you can also apply to join our organization directly."
+    title = "Idaho Flight Academy"
+    subtitle = "Idaho Flight Academy offers flight training and airplane rental to pilots in and around Idaho. Come fly with us to work on ratings and maintain your currency. For more information email info@idahoflight.com. If you already have a Trackhobbs.com account setup you can also apply to join our organization directly."
     hide_summary = true
 
 [params.features]
@@ -242,7 +247,7 @@ pluralizelisttitles = false
     # For more information take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
@@ -250,7 +255,7 @@ pluralizelisttitles = false
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
@@ -260,7 +265,7 @@ pluralizelisttitles = false
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]

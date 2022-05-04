@@ -4,24 +4,21 @@ description = "Course Curriculum"
 keywords = ["curriculum","requirement","course","learning objective"]
 +++
 
-Below is the summary of our courses and the things you will learn. TODO: Update this content.
+##### Every rating you achieve has a 3 part test you will have to undergo. We’re here to help you with all 3! You will have a written examination, oral examination, and practical examination. We’ve included the costs of those in our [pricing](/pricing) layout.
 
-## 1. Course A
+### Written
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+In preparation for your written test, you will work through a ground course with one of our Certified Flight Instructors, who will be there to guide you and answer any questions along the way. Your written test can be completed at any time (before or during your flight training) and will test your knowledge of the rules, regulations, and various topics pertinent to flying an airplane in a written format. This will be administered by the FAA. 
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+### Oral 
 
-## 2. Course B
+Your next exams will come after the completion of your flight training, where you’ll be tested by a Designated Pilot Examiner, who will first gauge your knowledge through an oral evaluation. You’ll be asked to answer various questions and demonstrate different planning techniques used to conduct a safe flight with the knowledge you’ve accumulated in your training. 
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+### Practical 
 
-## 3. Course C
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Your last test will be conducted on that same day and will be a practical evaluation of your flying skills, in the airplane. You’ll demonstrate the different maneuvers and procedures learned during your flight training. 
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> We’ve trained hundreds of successful pilots and are here to help you join the ranks!
+
