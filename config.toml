@@ -1,6 +1,6 @@
 #baseurl = "https://example.org/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-#baseurl = "https://tymadsen.github.io/flightschool/"
-baseurl = "localhost:1313"
+baseurl = "https://tymadsen.github.io/flightschool/"
+#baseurl = "localhost:1313"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "./themes"

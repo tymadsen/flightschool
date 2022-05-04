@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:1313/authors/</loc>
+    <loc>https://tymadsen.github.io/flightschool/authors/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/categories/aviation/</loc>
+    <loc>https://tymadsen.github.io/flightschool/categories/aviation/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/blog/</loc>
+    <loc>https://tymadsen.github.io/flightschool/blog/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>https://tymadsen.github.io/flightschool/categories/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/blog/2022/05/03/first-post/</loc>
+    <loc>https://tymadsen.github.io/flightschool/blog/2022/05/03/first-post/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/tags/flight/</loc>
+    <loc>https://tymadsen.github.io/flightschool/tags/flight/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/categories/flying/</loc>
+    <loc>https://tymadsen.github.io/flightschool/categories/flying/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/tags/instruction/</loc>
+    <loc>https://tymadsen.github.io/flightschool/tags/instruction/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/tags/pilots/</loc>
+    <loc>https://tymadsen.github.io/flightschool/tags/pilots/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/categories/school/</loc>
+    <loc>https://tymadsen.github.io/flightschool/categories/school/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>https://tymadsen.github.io/flightschool/tags/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/authors/ty-madsen/</loc>
+    <loc>https://tymadsen.github.io/flightschool/authors/ty-madsen/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/</loc>
+    <loc>https://tymadsen.github.io/flightschool/</loc>
     <lastmod>2022-05-03T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>localhost:1313/aircraft/</loc>
+    <loc>https://tymadsen.github.io/flightschool/aircraft/</loc>
   </url><url>
-    <loc>localhost:1313/contact/</loc>
+    <loc>https://tymadsen.github.io/flightschool/contact/</loc>
   </url><url>
-    <loc>localhost:1313/curriculum/</loc>
+    <loc>https://tymadsen.github.io/flightschool/curriculum/</loc>
   </url><url>
-    <loc>localhost:1313/faq/</loc>
+    <loc>https://tymadsen.github.io/flightschool/faq/</loc>
   </url><url>
-    <loc>localhost:1313/opportunities/</loc>
+    <loc>https://tymadsen.github.io/flightschool/opportunities/</loc>
   </url><url>
-    <loc>localhost:1313/instructors/</loc>
+    <loc>https://tymadsen.github.io/flightschool/instructors/</loc>
   </url><url>
-    <loc>localhost:1313/pricing/</loc>
+    <loc>https://tymadsen.github.io/flightschool/pricing/</loc>
   </url>
 </urlset>
