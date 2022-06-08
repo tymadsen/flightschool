@@ -4,7 +4,7 @@ description = "Our Certified Flight Instructors"
 keywords = ["pilot","instructor","coach"]
 +++
 
-## Jeff Johnson - Owner: 
+## Jeff Johnson - Owner
 
 Jeff grew up involved in aviation. He was too young to remember his first flight in a plane. His family owned a Cessna 152 and a V-Tail Beech Bonanza and would fly regularly. He knew at a very young age that he wanted to be a pilot when he grew up. Unfortunately, though, by age 12, his family had sold both aircraft. A few years later however, at age 17, he began building a kit aircraft, a Zodiac CH601XL, with his dad and uncle and he was tossed back into the world of aviation. He began his flight training in 2010 and received his commercial certificate and became a Certified Flight Instructor in early 2017, having taken a few years off from training to marry the love of his life and have a daughter. After a short year of being a full-time flight instructor, he was head-hunted to be the corporate pilot for a small construction company where he still works today. Jeff lives in northern Utah with his wife and 3 (soon to be 4) children. He has over 2,300 flight hours and continues to build airplanes in his spare time. Jeff is an avid volunteer in the aviation community, providing service to the EAA, flying in the Young Eagles program, Angel Flight, free ground school classes, and working VIP hospitality at the Reno National Championship Air Races.
 

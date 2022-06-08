@@ -20,7 +20,7 @@ We have 2 Piper Cherokee 140’s (I’ll send you pictures to add)
 Our team:
 Brian Laws - Flight Instructor: Brian is a third generation pilot, so becoming a pilot was just a natural progression in life. He says as an instructor, there’s nothing more satisfying than training new pilots, from discovery flight, first solo, to shaking hands with the DPE as they achieve their first pilots license. As a CFI/CFII, he also enjoys working for Idaho Flight Academy, where safety is paramount. He hopes to one day be an airline pilot and continue to provide excellent customer service.
 
-Jeff Johnson - Owner: 
+Jeff Johnson - Owner 
 Andrew Lechtenberg - Director of Flight Operations: Andrew is the Director of Flights Operations for Idaho Flight Academy. 
 
 Andrew grew up wanting to pursue a career in corporate business, like his dad. Upon completing his bachelor's degree in finance, he moved to Dallas, TX to work for American Airlines. It was there that he discovered his passion for aviation. Soon after, he left his job and completed his flight training. In addition to being our Director of Flight Operations, he flies for SkyWest Airlines.
